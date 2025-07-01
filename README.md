@@ -68,6 +68,10 @@ Example Output (CLI):
    BSSID: AA:BB:CC:DD:EE:FF
 ------------------------------
 
+## 🎥 Project Demo (with Voice-over)
+
+🎬 [Click here to watch the video demo](https://drive.google.com/file/d/1ugWrZr5Hl_Sy-oab5A3zvt5uaHNzHNUs/view?usp=drive_link)
+
 ---
 
 Future Enhancements:
