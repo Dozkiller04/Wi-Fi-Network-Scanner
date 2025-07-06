@@ -25,6 +25,7 @@ A Python-based tool to scan nearby Wi-Fi networks and display essential informat
 ---
 
 ## 📁 Folder Structure
+
 wifi-network-scanner/
 ├── main.py # CLI runner
 ├── scanner.py # Core scanning logic using pywifi
@@ -35,32 +36,29 @@ wifi-network-scanner/
 │ ├── Output_01.png # CLI output
 │ └── GUI_Output_02.png # GUI output
 └── README.md # Project documentation
+
+yaml
+Copy code
+
 ---
+
 ## 📦 Installation Instructions
 
 ```bash
 git clone https://github.com/Dozkiller04/Wi-Fi-Network-Scanner.git
 cd Wi-Fi-Network-Scanner
 pip install -r requirements.txt
-💡 tkinter is pre-installed in most Python setups.
-```
----
+💡 tkinter is usually pre-installed with Python. If not, install it manually.
 
----
-
-## ⚙️ How to Use
-
-### ▶️ Run in CLI mode:
-
-```bash
+⚙️ How to Use
+▶️ Run in CLI mode:
+bash
+Copy code
 python main.py
 🖥️ Run in GUI mode:
 bash
 Copy code
 python gui.py
-
----
----
 📸 Project Screenshots
 🔹 CLI Interface Output
 
