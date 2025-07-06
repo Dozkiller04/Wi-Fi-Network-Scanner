@@ -58,6 +58,9 @@ python main.py
 bash
 Copy code
 python gui.py
+
+---
+---
 📸 Project Screenshots
 🔹 CLI Interface Output
 
