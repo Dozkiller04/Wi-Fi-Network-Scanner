@@ -40,16 +40,6 @@ wifi-network-scanner/
 
 ---
 
-## ⚙️ How to Use
-
-### ▶️ Run in CLI mode:
-```bash
-python main.py
--Run in GUI mode:
-python gui.py
-
----
-
 ## 📸 Project Screenshots
 
 ### 🔹 CLI Interface Output  
