@@ -40,15 +40,6 @@ wifi-network-scanner/
 
 ---
 
-## 📦 Installation Instructions
-
-```bash
-git clone https://github.com/Dozkiller04/Wi-Fi-Network-Scanner.git
-cd Wi-Fi-Network-Scanner
-pip install -r requirements.txt
-
----
-
 ## ⚙️ How to Use
 
 ### ▶️ Run in CLI mode:
