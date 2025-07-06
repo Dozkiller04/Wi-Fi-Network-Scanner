@@ -47,7 +47,6 @@ git clone https://github.com/Dozkiller04/Wi-Fi-Network-Scanner.git
 cd Wi-Fi-Network-Scanner
 pip install -r requirements.txt
 
-💡 Note: tkinter is usually pre-installed with Python. If not, you may need to install it manually.
 ---
 
 ## ⚙️ How to Use
