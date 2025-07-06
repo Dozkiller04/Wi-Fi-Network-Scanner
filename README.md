@@ -57,13 +57,19 @@ python main.py
 bash
 Copy code
 python gui.py
-📸 Project Screenshots
-🔹 CLI Interface Output
 
-🔹 GUI Interface Output
+## 📸 Project Screenshots
 
-🎬 Project Demo (with Voice-over)
-📽️ Watch the full demo here:
+### 🔹 CLI Interface Output  
+![CLI Output](screenshots/Output_01.png)
+
+### 🔹 GUI Interface Output  
+![GUI Output](screenshots/GUI_Output_02.png)
+
+## 🎬 Project Demo (with Voice-over)
+
+📽️ Watch the full demo here:  
+👉 [Click to Watch Video Demo](https://drive.google.com/file/d/1ugWrZr5Hl_Sy-oab5A3zvt5uaHNzHNUs/view?usp=drive_link)
 👉 Click to Watch Video Demo
 
 🚀 Future Enhancements
