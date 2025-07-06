@@ -1,10 +1,11 @@
-# Wi-Fi Network Scanner 📶
+# 📶 Wi-Fi Network Scanner
 
 A Python-based tool to scan nearby Wi-Fi networks and display essential information such as SSID, signal strength (dBm), and BSSID. Useful for analyzing signal strength and selecting the optimal Wi-Fi network for connectivity.
 
 ---
 
-Features:
+## ✨ Features
+
 - Scans nearby Wi-Fi networks
 - Displays SSID, BSSID, and signal strength (RSSI in dBm)
 - Sorts networks by signal strength
@@ -14,83 +15,75 @@ Features:
 
 ---
 
-Technologies Used:
+## 🛠️ Technologies Used
+
 - Python 3.x
-- pywifi – Wi-Fi interface library
-- tkinter – GUI interface (optional)
-- subprocess – (used for Linux fallback support)
+- `pywifi` – Wi-Fi interface library
+- `tkinter` – GUI interface (optional)
+- `subprocess` – Linux fallback support
 
 ---
 
-Folder Structure:
+## 📁 Folder Structure
 
 wifi-network-scanner/
-├── main.py            # CLI runner
-├── scanner.py         # Core scanning logic using pywifi
-├── gui.py             # GUI interface with Tkinter (optional)
-├── utils.py           # Utility functions (sorting, exporting)
-├── requirements.txt   # Required Python packages
-└── README.md          # Project documentation
+├── main.py # CLI runner
+├── scanner.py # Core scanning logic using pywifi
+├── gui.py # GUI interface with Tkinter
+├── utils.py # Utility functions
+├── requirements.txt # Required Python packages
+├── screenshots/ # Output images
+│ ├── Output_01.png
+│ └── GUI_Output_02.png
+└── README.md # Project documentation
+
+yaml
+Copy code
 
 ---
 
-Installation Instructions:
+## 📦 Installation Instructions
 
-1. Clone the repository:
-   git clone https://github.com/Dozkiller04/Wi-Fi-Network-Scanner.git
-   cd Wi-Fi-Network-Scanner
+```bash
+git clone https://github.com/Dozkiller04/Wi-Fi-Network-Scanner.git
+cd Wi-Fi-Network-Scanner
+pip install -r requirements.txt
+Note: tkinter comes pre-installed with most Python versions.
 
-2. Install required packages:
-   pip install -r requirements.txt
-
-Note: tkinter comes pre-installed with Python on most systems.
-
----
-
-How to Use:
-
+⚙️ How to Use
 Run in CLI mode:
-   python main.py
 
+bash
+Copy code
+python main.py
 Run in GUI mode (optional):
-   python gui.py
 
----
+bash
+Copy code
+python gui.py
+📸 Project Screenshots
+🔹 CLI Output
 
-Example Output (CLI):
+🔹 GUI Output
 
-1. SSID: MyHomeWiFi
-   Signal Strength: -40 dBm
-   BSSID: A1:B2:C3:D4:E5:F6
-------------------------------
-2. SSID: GuestNetwork
-   Signal Strength: -70 dBm
-   BSSID: AA:BB:CC:DD:EE:FF
-------------------------------
+🎬 Project Demo (with Voice-over)
+▶️ Watch the video demo
 
-## 🎥 Project Demo (with Voice-over)
+🚀 Future Enhancements
+Auto-refresh scanner every 10 seconds
 
-🎬 [Click here to watch the video demo](https://drive.google.com/file/d/1ugWrZr5Hl_Sy-oab5A3zvt5uaHNzHNUs/view?usp=drive_link)
+Connect to selected networks
 
----
+Export results to CSV
 
-Future Enhancements:
-- Auto-refresh scanner every 10 seconds
-- Connect to selected networks
-- Export results to CSV
-- Add signal strength chart using matplotlib
-- Show security type (WPA2, WPA3, Open)
+Add signal strength chart using matplotlib
 
----
+Show Wi-Fi security type (WPA2/WPA3/Open)
 
-Author:
+👨‍💻 Author
 Soham Pramod Tayade
 🎓 BSc Cyber & Digital Science
-🏢 RISE Internship — Cybersecurity & Ethical Hacking
+🏢 RISE Internship – Cybersecurity & Ethical Hacking
 📍 Pune, Maharashtra
-GitHub: https://github.com/Dozkiller04
+🔗 GitHub Profile
 
----
-
-License:
-MIT License – feel free to use, modify, and share!
