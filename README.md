@@ -50,11 +50,14 @@ cd Wi-Fi-Network-Scanner
 pip install -r requirements.txt
 💡 tkinter is usually pre-installed with Python. If not, install it manually.
 
-⚙️ How to Use
-▶️ Run in CLI mode:
-bash
-Copy code
+---
+
+## ⚙️ How to Use
+
+### ▶️ Run in CLI mode:
+```bash
 python main.py
+
 🖥️ Run in GUI mode:
 bash
 Copy code
