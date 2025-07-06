@@ -25,7 +25,6 @@ A Python-based tool to scan nearby Wi-Fi networks and display essential informat
 ---
 
 ## 📁 Folder Structure
-
 wifi-network-scanner/
 ├── main.py # CLI runner
 ├── scanner.py # Core scanning logic using pywifi
@@ -36,38 +35,36 @@ wifi-network-scanner/
 │ ├── Output_01.png # CLI output
 │ └── GUI_Output_02.png # GUI output
 └── README.md # Project documentation
-
-yaml
-Copy code
-
 ---
-
 ## 📦 Installation Instructions
 
 ```bash
 git clone https://github.com/Dozkiller04/Wi-Fi-Network-Scanner.git
 cd Wi-Fi-Network-Scanner
 pip install -r requirements.txt
-💡 tkinter comes pre-installed with most Python versions.
+💡 tkinter is pre-installed in most Python setups.
+```
+---
 
-⚙️ How to Use
-Run in CLI mode:
+---
 
-bash
-Copy code
+## ⚙️ How to Use
+
+### ▶️ Run in CLI mode:
+```bash
 python main.py
-Run in GUI mode:
-
+🖥️ Run in GUI mode:
 bash
 Copy code
 python gui.py
 📸 Project Screenshots
-🖥️ CLI Interface
+🔹 CLI Interface Output
 
-🪟 GUI Interface
+🔹 GUI Interface Output
 
 🎬 Project Demo (with Voice-over)
-▶️ Click here to watch the video demo
+📽️ Watch the full demo here:
+👉 Click to Watch Video Demo
 
 🚀 Future Enhancements
 Auto-refresh scanner every 10 seconds
@@ -85,4 +82,23 @@ Soham Pramod Tayade
 🎓 BSc Cyber & Digital Science
 🏢 RISE Internship – Cybersecurity & Ethical Hacking
 📍 Pune, Maharashtra
-🔗 GitHub Profile
+🔗 GitHub: Dozkiller04
+
+🎬 Project Demo (with Voice-over)
+📽️ Watch the full demo here:
+👉 Click to Watch Video Demo
+
+🚀 Future Enhancements
+Auto-refresh scanner every 10 seconds
+Connect to selected networks
+Export results to CSV
+Add signal strength chart using matplotlib
+Show Wi-Fi security type (WPA2/WPA3/Open)
+
+👨‍💻 Author
+Soham Pramod Tayade
+🎓 BSc Cyber & Digital Science
+🏢 RISE Internship – Cybersecurity & Ethical Hacking
+📍 Pune, Maharashtra
+🔗 GitHub: Dozkiller04
+
