@@ -32,9 +32,9 @@ wifi-network-scanner/
 ├── gui.py # GUI interface with Tkinter
 ├── utils.py # Utility functions
 ├── requirements.txt # Required Python packages
-├── screenshots/ # Output images
-│ ├── Output_01.png
-│ └── GUI_Output_02.png
+├── screenshots/ # Output screenshots
+│ ├── Output_01.png # CLI output
+│ └── GUI_Output_02.png # GUI output
 └── README.md # Project documentation
 
 yaml
@@ -48,7 +48,7 @@ Copy code
 git clone https://github.com/Dozkiller04/Wi-Fi-Network-Scanner.git
 cd Wi-Fi-Network-Scanner
 pip install -r requirements.txt
-Note: tkinter comes pre-installed with most Python versions.
+💡 tkinter comes pre-installed with most Python versions.
 
 ⚙️ How to Use
 Run in CLI mode:
@@ -56,18 +56,18 @@ Run in CLI mode:
 bash
 Copy code
 python main.py
-Run in GUI mode (optional):
+Run in GUI mode:
 
 bash
 Copy code
 python gui.py
 📸 Project Screenshots
-🔹 CLI Output
+🖥️ CLI Interface
 
-🔹 GUI Output
+🪟 GUI Interface
 
 🎬 Project Demo (with Voice-over)
-▶️ Watch the video demo
+▶️ Click here to watch the video demo
 
 🚀 Future Enhancements
 Auto-refresh scanner every 10 seconds
@@ -86,4 +86,3 @@ Soham Pramod Tayade
 🏢 RISE Internship – Cybersecurity & Ethical Hacking
 📍 Pune, Maharashtra
 🔗 GitHub Profile
-
