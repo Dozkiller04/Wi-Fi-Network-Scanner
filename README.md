@@ -62,18 +62,19 @@ python gui.py
 
 ## 📸 Project Screenshots
 
-### 🔹 CLI Interface Output
-![CLI Output](screenshots/Output_01.png)
+### 🔹 CLI Interface Output  
+![CLI Output](./screenshots/Output_01.png)
 
-### 🔹 GUI Interface Output
-![GUI Output](screenshots/GUI_Output_02.png)
+### 🔹 GUI Interface Output  
+![GUI Output](./screenshots/GUI_Output_02.png)
+
 
 ---
 
 ## 🎬 Project Demo (with Voice-over)
 
-📽️ Watch the full video demo here:  
-👉 [Click to Watch Video Demo](https://drive.google.com/file/d/1ugWrZr5Hl_Sy-oab5A3zvt5uaHNzHNUs/view?usp=drive_link)
+📽️ **Watch the full video demo (with voice-over):**  
+👉 [Click here to view demo on Google Drive](https://drive.google.com/file/d/1ugWrZr5Hl_Sy-oab5A3zvt5uaHNzHNUs/view?usp=drive_link)
 
 ---
 
