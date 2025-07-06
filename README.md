@@ -6,21 +6,21 @@ A Python-based tool to scan nearby Wi-Fi networks and display essential informat
 
 ## ✨ Features
 
-- Scans nearby Wi-Fi networks
-- Displays SSID, BSSID, and signal strength (RSSI in dBm)
-- Sorts networks by signal strength
-- CLI and GUI versions available
-- Cross-platform support (Windows/Linux)
-- Lightweight and fast
+- Scans nearby Wi-Fi networks  
+- Displays SSID, BSSID, and signal strength (RSSI in dBm)  
+- Sorts networks by signal strength  
+- CLI and GUI versions available  
+- Cross-platform support (Windows/Linux)  
+- Lightweight and fast  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Python 3.x
-- `pywifi` – Wi-Fi interface library
-- `tkinter` – GUI interface (optional)
-- `subprocess` – Linux fallback support
+- Python 3.x  
+- `pywifi` – Wi-Fi interface library  
+- `tkinter` – GUI interface (optional)  
+- `subprocess` – Linux fallback support  
 
 ---
 
@@ -50,33 +50,23 @@ cd Wi-Fi-Network-Scanner
 pip install -r requirements.txt
 💡 tkinter is usually pre-installed with Python. If not, install it manually.
 
----
-
-## ⚙️ How to Use
-
-### ▶️ Run in CLI mode:
-```bash
+⚙️ How to Use
+▶️ Run in CLI mode:
+bash
+Copy code
 python main.py
-
 🖥️ Run in GUI mode:
 bash
 Copy code
 python gui.py
-## 📸 Project Screenshots
+📸 Project Screenshots
+🔹 CLI Interface Output
 
-### 🔹 CLI Interface Output  
-![CLI Output](screenshots/Output_01.png)
+🔹 GUI Interface Output
 
-### 🔹 GUI Interface Output  
-![GUI Output](screenshots/GUI_Output_02.png)
-
----
-
-## 🎬 Project Demo (with Voice-over)
-
-📽️ Watch the full video demo here:  
-👉 [Click to Watch Video Demo](https://drive.google.com/file/d/1ugWrZr5Hl_Sy-oab5A3zvt5uaHNzHNUs/view?usp=drive_link)
-
+🎬 Project Demo (with Voice-over)
+📽️ Watch the full demo video here:
+👉 Click to Watch Video Demo
 
 🚀 Future Enhancements
 Auto-refresh scanner every 10 seconds
