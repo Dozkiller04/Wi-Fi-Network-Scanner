@@ -59,24 +59,27 @@ python main.py
 bash
 Copy code
 python gui.py
-📸 Project Screenshots
-🔹 CLI Interface Output
+## 📸 Project Screenshots
 
-🔹 GUI Interface Output
+### 🔹 CLI Interface Output  
+![CLI Output](screenshots/Output_01.png)
 
-🎬 Project Demo (with Voice-over)
-📽️ Watch the full demo video here:
-👉 Click to Watch Video Demo
+### 🔹 GUI Interface Output  
+![GUI Output](screenshots/GUI_Output_02.png)
+
+---
+
+## 🎬 Project Demo (with Voice-over)
+
+📽️ Watch the full video demo here:  
+👉 [Click to Watch Video Demo](https://drive.google.com/file/d/1ugWrZr5Hl_Sy-oab5A3zvt5uaHNzHNUs/view?usp=drive_link)
+
 
 🚀 Future Enhancements
 Auto-refresh scanner every 10 seconds
-
 Connect to selected networks
-
 Export results to CSV
-
 Add signal strength chart using matplotlib
-
 Show Wi-Fi security type (WPA2/WPA3/Open)
 
 👨‍💻 Author
